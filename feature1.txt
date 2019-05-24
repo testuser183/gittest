@@ -1,3 +1,4 @@
 ﻿新規作成
 feature1が変更
 releaseが変更
+hotfixが修正
