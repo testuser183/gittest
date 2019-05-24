@@ -1,1 +1,2 @@
-﻿feature2を追加
+﻿feature2を追加123
+releaseが追加
