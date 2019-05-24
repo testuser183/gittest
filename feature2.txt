@@ -1,5 +1,2 @@
 ﻿feature2を追加123
 releaseが追加
-aaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbb
-c
